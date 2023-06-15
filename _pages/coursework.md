@@ -20,7 +20,7 @@ nav_order: 5
 - [EECS 126: Probability and Random Processes](https://inst.eecs.berkeley.edu/~ee126/fa22/)
 - EE 120: Signals and Systems
 
-##### (For Fall 2021 & Spring 2022: Took gap year Gap year for my military service @ Republic of Korea Army)
+##### (For Fall 2021 & Spring 2022: Took a gap year for my military service @ Republic of Korea Army)
 
 #### <em>Spring 2021</em> 
 - [CS 61B: Data Structures](https://sp21.datastructur.es/) (A+)
