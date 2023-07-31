@@ -147,7 +147,7 @@ hr {
 
 table td,
 table th {
-  font-size: 0.5rem;
+  font-size: 1rem;
 }
 table th {
   font-weight: bold;
@@ -367,7 +367,7 @@ blockquote {
   text-align: center;
 }
 .social .contact-icons {
-  font-size: 4rem;
+  font-size: 1rem;
 }
 .social .contact-icons a i::before {
   color: var(--global-text-color);
