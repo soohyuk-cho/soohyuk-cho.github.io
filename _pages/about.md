@@ -18,7 +18,7 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! My name is SooHyuk Cho. I’m a 3rd year undergraduate student pursuing double major in B.A. in Computer Science and Data Science at UC Berkeley.
+Hi! I'm SooHyuk Cho. I’m a 3rd year undergraduate student pursuing double major in B.A. in Computer Science and Data Science at UC Berkeley.
 
 <em>NOTE: This website is still under construction</em>
 
