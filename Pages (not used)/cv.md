@@ -1,8 +1,7 @@
 ---
 layout: cv
-permalink: /cv/
+permalink: /assets/pdf/SooHyuk_Cho_CV.pdf
 title: cv
 nav: true
 nav_order: 4
-cv_pdf: SooHyuk_Cho_CV.pdf
 ---
