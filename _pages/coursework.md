@@ -21,7 +21,7 @@ nav_order: 5x
 
 #### <em>Fall 2022</em> 
 - [CS 61C: Computer Architecture and Engineering](https://inst.eecs.berkeley.edu/~cs61c/fa22/)
-- [CS 170: Introduction to Machine Learning](https://cs170.org/)
+- [CS 170: Efficient Algorithms and Intractable Problems](https://cs170.org/)
 - [EECS 126: Probability and Random Processes](https://inst.eecs.berkeley.edu/~ee126/fa22/)
 - EE 120: Signals and Systems
 
