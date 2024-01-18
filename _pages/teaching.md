@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /coursework/
-title: Coursework
-description: Here's a full listing of technical classes I've taken at UC Berkeley so far.
+permalink: /teaching/
+title: Teaching
+description: Here's a list of courses I've taught so far.
 nav: true
 nav_order: 5x
 ---
