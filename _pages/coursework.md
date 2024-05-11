@@ -6,14 +6,17 @@ description: Here's a full listing of technical classes I've taken at UC Berkele
 nav: true
 nav_order: 5x
 ---
-#### <em>Spring 2024</em> (in-progress)
+#### <em>Spring 2024</em>
+- [CS 164: Programming Languages and Compilers](https://sites.google.com/berkeley.edu/cs164sp24/home)
+- EE 105: Microelectronic Devices and Circuits
 - EECS 151: Introduction to Digital Design and Integrated Circuits
-- EECS C106B: Robotic Manipulation and Interaction
+- EECS 151LB: Field-Programmable Gate Array Laboratory (FPGA)
+- [EECS C106B: Robotic Manipulation and Interaction](https://ucb-ee106.github.io/106b-sp24site/)
 
 #### <em>Fall 2023</em>
 - [CS 162: Operating Systems and System Programming](https://inst.eecs.berkeley.edu/~cs162/fa23/)
-- EECS C106A: Introduction to Robotics
-- CS 285: (Grad) Deep Reinforcement Learning, Decision Making, and Control 
+- [EECS C106A: Introduction to Robotics](https://ucb-ee106.github.io/eecs106a-fa23site/)
+- [CS 285: (Grad) Deep Reinforcement Learning, Decision Making, and Control](https://rail.eecs.berkeley.edu/deeprlcourse/)
 - EE 221A: (Grad) Linear System Theory 
 
 #### <em>Spring 2023</em> 
