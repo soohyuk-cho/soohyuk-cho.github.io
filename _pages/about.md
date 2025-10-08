@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: princeton_ece_profile_fa25.jpg
+  image: princeton_ece_profile_fa25.JPG
   image_circular: false # crops the image to make it circular
   address: #>
     #<p>555 your office number</p>
