@@ -45,6 +45,23 @@ nav_order: 2
 <section id="berkeley" data-school="berkeley" role="tabpanel" aria-labelledby="opt-berkeley" markdown="1">
 
 ### UC Berkeley Coursework
+<details markdown="1">
+  <summary><em>Spring 2025</em></summary>
+
+- EE 194: 16nm SoC for IoT Tapeout
+- [DATA C100: Principles & Techniques of Data Science](https://ds100.org/sp25/)
+- [MATH 156: Numerical Analysis for Data Science and Statistics](https://classes.berkeley.edu/content/2025-spring-math-156-001-lec-001)
+
+</details>
+
+<details markdown="1">
+  <summary><em>Fall 2024</em></summary>
+
+- [CS 168: Introduction to the Internet: Architecture and Protocols](https://www2.eecs.berkeley.edu/Courses/CS168/)
+- [CS 186: Introduction to Database Systems](https://www2.eecs.berkeley.edu/Courses/CS186/)
+- [BIOENG 100: Ethics in Science and Engineering](https://classes.berkeley.edu/content/2024-fall-bioeng-100-001-lec-001)
+- [CIVENG 153: Transportation Facility Design (Airport Design)](https://classes.berkeley.edu/content/2024-fall-civeng-153-001-lec-001)
+</details>
 
 <details markdown="1">
   <summary><em>Spring 2024</em></summary>
