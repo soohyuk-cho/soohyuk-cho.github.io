@@ -18,9 +18,13 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I'm SooHyuk Cho. I’m a 3rd year undergraduate student pursuing double major in B.A. in Computer Science and Data Science at UC Berkeley.
+Hi! I’m SooHyuk Cho, a first-year Ph.D. student in Electrical and Computer Engineering at Princeton University. My research sits at the intersection of computer architecture and hardware security, with an emphasis on formal verification techniques and tools.
 
-<em>NOTE: This website is still under construction</em>
+Before Princeton, I earned a B.A. in Computer Science and Data Science from UC Berkeley in 2025. At Berkeley’s SLICE Lab, I developed effective, comprehensive CPU fuzzing techniques via structured program generation of meaningful instruction streams, advised by my post-doc mentor [Dr. Flavien Solt](https://flaviens.github.io/) and [Professor Christopher Fletcher](https://cwfletcher.github.io/). I also contributed to the Architectural Checkpoint project in the FireSim ecosystem, mentored by [Dr. Abraham Gonzalez](https://abejgonzalez.github.io/) and [Professor Emeritus and Professor of the Graduate School Krste Asanović](https://people.eecs.berkeley.edu/~krste/).
+
+If you’d like to connect or discuss ideas in formal verification, EDA, hardware security, or computer architecture, feel free to reach out at [soohyuk.cho@princeton.edu](soohyuk.cho@princeton.edu)!
+
+<!-- <em>NOTE: This website is still under construction</em> -->
 
 [//]: # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
