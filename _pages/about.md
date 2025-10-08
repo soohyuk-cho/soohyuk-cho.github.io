@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: soohyuk.cho@berkeley.edu
+# subtitle: soohyuk.cho@berkeley.edu
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: princeton_ece_profile_fa25.jpg
   image_circular: false # crops the image to make it circular
   address: #>
     #<p>555 your office number</p>
@@ -18,12 +18,13 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-Hi! I’m SooHyuk Cho, a first-year Ph.D. student in Electrical and Computer Engineering at Princeton University. My research sits at the intersection of computer architecture and hardware security, with an emphasis on formal verification techniques and tools.
+Hi! I’m SooHyuk Cho, a first-year Ph.D. student in [Electrical and Computer Engineering](https://ece.princeton.edu/) at [Princeton University](https://www.princeton.edu/). My research interests are at the intersection of computer architecture and hardware security, with an emphasis on formal verification techniques and tools.
 
-Before Princeton, I earned a B.A. in Computer Science and Data Science from UC Berkeley in 2025. At Berkeley’s SLICE Lab, I developed effective, comprehensive CPU fuzzing techniques via structured program generation of meaningful instruction streams, advised by my post-doc mentor [Dr. Flavien Solt](https://flaviens.github.io/) and [Professor Christopher Fletcher](https://cwfletcher.github.io/). I also contributed to the Architectural Checkpoint project in the FireSim ecosystem, mentored by [Dr. Abraham Gonzalez](https://abejgonzalez.github.io/) and [Professor Emeritus and Professor of the Graduate School Krste Asanović](https://people.eecs.berkeley.edu/~krste/).
+Before Princeton, I earned a B.A. in [Computer Science](https://eecs.berkeley.edu/cs/) and [Data Science](https://cdss.berkeley.edu/) from [University of California, Berkeley](https://berkeley.edu) in 2025. During my time at Berkeley, I participated in various projects at the [SLICE lab](https://slice.eecs.berkeley.edu/) as an undergraduate researcher. I developed effective, comprehensive CPU fuzzing techniques via structured program generation of meaningful instruction streams, advised by my post-doc mentor [Dr. Flavien Solt](https://flaviens.github.io/) and [Professor Christopher Fletcher](https://cwfletcher.github.io/). I also contributed to the Architectural Checkpoint project in the FireSim ecosystem, mentored by [Dr. Abraham Gonzalez](https://abejgonzalez.github.io/) and [Professor Emeritus and Professor of the Graduate School Krste Asanović](https://people.eecs.berkeley.edu/~krste/).
 
-If you’d like to connect or discuss ideas in formal verification, EDA, hardware security, or computer architecture, feel free to reach out at [soohyuk.cho@princeton.edu](soohyuk.cho@princeton.edu)!
+If you’d like to connect or discuss ideas in formal verification, EDA, hardware security, or computer architecture, feel free to reach out!
 
+Contact: [soohyuk.cho@princeton.edu](mailto:soohyuk.cho@princeton.edu)
 <!-- <em>NOTE: This website is still under construction</em> -->
 
 [//]: # Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
