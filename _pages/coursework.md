@@ -4,7 +4,7 @@ permalink: /coursework/
 title: Coursework
 description: Here's a full listing of technical classes I've taken.
 nav: true
-nav_order: 5x
+nav_order: 2
 ---
 
 <!-- ===== School Toggle ===== -->
