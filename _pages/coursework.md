@@ -50,7 +50,7 @@ nav_order: 2
 
 - EE 194: 16nm SoC for IoT Tapeout
 - [DATA C100: Principles & Techniques of Data Science](https://ds100.org/sp25/)
-- [MATH 156: Numerical Analysis for Data Science and Statistics](https://classes.berkeley.edu/content/2025-spring-math-156-001-lec-001)
+- [MATH 156: Numerical Analysis for Data Science and Statistics](https://classes.berkeley.edu/content/2025-spring-math-156-001-lec-001) (A+)
 
 </details>
 
