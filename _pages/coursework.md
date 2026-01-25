@@ -27,7 +27,22 @@ nav_order: 2
     <section id="princeton" data-school="princeton" role="tabpanel" aria-labelledby="opt-princeton" markdown="1">
 
 ### Princeton Coursework
-*(No coursework added yet—update this section when ready.)*
+<details markdown="1">
+  <summary><em>Fall 2025</em></summary>
+
+- [COS 516/ECE 516: Automated Reasoning about Software](https://www.cs.princeton.edu/courses/archive/fall25/cos516/)
+- [ECE 574: Security and Privacy in Computing and Communications](https://www.princeton.edu/~pmittal/teaching/ece574-fall25/index.html) (A+)
+- ECE 580: Advanced Topics in Computer Engineering: Domain-specific Computer Systems Architecture
+- ECE 518: Selected Topics in Computer Engineering and Information Sciences and Systems (Seminar)
+
+</details>
+
+<details markdown="1">
+  <summary><em>Spring 2026</em></summary>
+
+TBD
+
+</details>
 
 <!-- Example template:
 <details markdown="1">
